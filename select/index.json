@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ふめつのあなた",
   "base_artist": "Perfume",
-  "createdAt": "2026-04-01T12:35:17.721357Z",
+  "createdAt": "2026-04-01T12:43:55.402950Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "Perfume",
       "has_synced": false,
       "path": "select/pl_01_ふめつのあなた_Perfume.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ふめつのあなた",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/localdb_01_ふめつのあなた_Perfume.lrc",
+      "repo_name": "xsWnLt6cWIA"
     }
   ]
 }
